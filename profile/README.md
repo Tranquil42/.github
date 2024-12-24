@@ -3,7 +3,7 @@
 </h1>
 
 <h6 align="center">
-  The Business <code>[automation | producutivity | organization | enablement | velocity | composability]</code> Platform
+  Business <code>[automation | producutivity | organization | enablement | velocity | composability]</code> Toolchain
 </h6>
 
 <p align="center">
